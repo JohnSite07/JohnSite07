@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**JohnSite07/JohnSite07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently a student a Seneca Polytechnic
 - 🌱 I’m currently enrolled in the Business Information Technology Graduate Certificate program of Seneca
